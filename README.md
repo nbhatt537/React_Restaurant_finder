@@ -18,3 +18,5 @@ I could enhance the UI with more interactive features, such as swiping animation
 I could add filtering options to refine search results based on user preferences.
 I could implement testing to ensure the reliability and stability of the application.
 
+
+When I was adding a file in GitHub I just remove the assets folder as it was not required but after that I realized that it has an app icon but only warning will come Just Ignore it.
